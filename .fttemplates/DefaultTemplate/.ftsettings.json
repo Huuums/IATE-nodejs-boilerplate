@@ -1,0 +1,5 @@
+{
+  "customVariables": ["ResourceName"],
+  "omitParentDirectory": true,
+  "omitFTName": true
+}
